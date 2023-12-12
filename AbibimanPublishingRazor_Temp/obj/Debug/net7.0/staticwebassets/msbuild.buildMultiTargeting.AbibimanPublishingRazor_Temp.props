@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AbibimanPublishingRazor_Temp.props" />
+</Project>

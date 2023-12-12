@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AbibimanPublishingBooks.props" />
+</Project>

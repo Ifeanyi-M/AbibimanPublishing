@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AbibimanPublishingBooks.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AbibimanPublishingBooks.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\06b6e0e5-0123-4578-80f1-59d1aea6bff7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\06b6e0e5-0123-4578-80f1-59d1aea6bff7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\0c41deb8-fa30-48c0-8476-e5748926dbf6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0c41deb8-fa30-48c0-8476-e5748926dbf6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\0ecc8251-76bd-4459-a514-d5691efe8604.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0ecc8251-76bd-4459-a514-d5691efe8604.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\1281a4bc-2542-4266-8eeb-c3a790397f98.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1281a4bc-2542-4266-8eeb-c3a790397f98.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\16efd95b-f7f0-4993-884b-89e1a34762d2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\16efd95b-f7f0-4993-884b-89e1a34762d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\178eb2cc-accf-4caa-ae5c-592634a2e279.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\178eb2cc-accf-4caa-ae5c-592634a2e279.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\2c4a2f5d-36a2-400e-bc34-331e8fbfbda9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2c4a2f5d-36a2-400e-bc34-331e8fbfbda9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\2d77339c-7f2c-4447-afb1-ffcbf6bf0f06.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2d77339c-7f2c-4447-afb1-ffcbf6bf0f06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\46a19c6f-d00b-4de3-8844-4982a025c9cf.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\46a19c6f-d00b-4de3-8844-4982a025c9cf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\4f9e1a90-0c07-42ba-a91c-a2350eb61282.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4f9e1a90-0c07-42ba-a91c-a2350eb61282.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\53cfef0c-6145-47d6-af94-e77a4d44c56c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\53cfef0c-6145-47d6-af94-e77a4d44c56c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\58f69a5a-f029-472f-bb73-8eb6b09a3059.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\58f69a5a-f029-472f-bb73-8eb6b09a3059.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\632b2094-d484-4bcc-8b9e-a3529b6be6c8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\632b2094-d484-4bcc-8b9e-a3529b6be6c8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\73839fd1-537e-4152-b331-309cd60961e0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\73839fd1-537e-4152-b331-309cd60961e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\7b5cfa59-0d40-40df-972b-4c14205ace69.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7b5cfa59-0d40-40df-972b-4c14205ace69.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\8ba59fa9-d8b2-4227-9666-d54800a09b67.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8ba59fa9-d8b2-4227-9666-d54800a09b67.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\91e8ba68-46ac-4bb9-b3d8-2de4decad6c6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\91e8ba68-46ac-4bb9-b3d8-2de4decad6c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\92cbf433-5480-44d6-bebb-edec4ddf802d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\92cbf433-5480-44d6-bebb-edec4ddf802d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\c0df59db-5fbb-41ca-aa7a-38d26ba4a333.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c0df59db-5fbb-41ca-aa7a-38d26ba4a333.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\c46a5e0d-e8bf-4b34-9ccd-33edd38eabad.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c46a5e0d-e8bf-4b34-9ccd-33edd38eabad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\cd104ab5-79a8-45bc-a142-b5bdff1581e1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\cd104ab5-79a8-45bc-a142-b5bdff1581e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\ec536213-62f0-4f02-9c17-f9c7c39a79ee.PNG",
+      "PackagePath": "staticwebassets\\images\\product\\ec536213-62f0-4f02-9c17-f9c7c39a79ee.PNG"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\fae0fb45-3d7f-4797-8be6-769eeb56cf5c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fae0fb45-3d7f-4797-8be6-769eeb56cf5c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\fcb62ca9-1f79-4219-a352-6ad8f71fc71c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fcb62ca9-1f79-4219-a352-6ad8f71fc71c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\fcf5fada-903f-4c15-b3b5-a635586faca9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fcf5fada-903f-4c15-b3b5-a635586faca9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\images\\product\\ffb95b98-905f-44b4-81e3-64961e119107.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ffb95b98-905f-44b4-81e3-64961e119107.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\source\\repos\\AbibimanPublishing\\AbibimanPublishingBooks\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AbibimanPublishingBooks.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AbibimanPublishingBooks.props",
+      "PackagePath": "build\\AbibimanPublishingBooks.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AbibimanPublishingBooks.props",
+      "PackagePath": "buildMultiTargeting\\AbibimanPublishingBooks.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AbibimanPublishingBooks.props",
+      "PackagePath": "buildTransitive\\AbibimanPublishingBooks.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
